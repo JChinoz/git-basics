@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Second edits on first file
-=======
-Edits performed on first file
->>>>>>> second-branch
